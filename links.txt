@@ -1,0 +1,53 @@
+http://alykoff.github.io/blog/2013/06/22/java-core-54-voprosa/
+http://www.seostella.com/ru/article/2012/02/05/formatirovanie-daty-v-java.html - OIDERN ARNU SimpleDateFormat
+http://habrahabr.ru/post/162017/
+http://habrahabr.ru/post/233797/
+http://habrahabr.ru/post/128269/
+http://docs.oracle.com/javase/8/docs/api/
+http://habrahabr.ru/post/132241/
+http://ru.wikibooks.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+http://habrahabr.ru/post/103681/
+http://habrahabr.ru/post/27108/
+http://habrahabr.ru/post/129494/
+http://devcolibri.com/193
+http://www.quizful.net/post/java-reflection-api
+http://howtodoinjava.com/2012/10/22/singleton-design-pattern-in-java/
+http://www.javaworld.com/article/2077568/learn-java/java-tip-67--lazy-instantiation.html
+http://habrahabr.ru/post/108016/
+http://habrahabr.ru/post/133237/
+http://www.quizful.net/post/java-fields-initialization
+http://info.javarush.ru/JavaRush_tasks_discussion/2013/09/29/level15-lesson12-home08.html
+http://math.sgu.ru/sites/chairs/prinf/materials/java/lesson2.htm
+http://www.java-study.ru/java-uchebnik/87-java-big-chisla
+http://habrahabr.ru/post/125799/
+http://php-mysql-highload.blogspot.ru/2012/08/git-fatal-lf-would-be-replaced-by-crlf.html
+http://habrahabr.ru/post/164487/
+http://vk.com/wall-43948962_35390 - eicac di reaidcnere
+http://info.javarush.ru/translation/2013/09/23/HashMap-%D0%B8-ConcurrentHashMap-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%D1%85.html#cut
+http://info.javarush.ru/Izhak/2014/12/21/tomcat-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%B4%D0%BB%D1%8F-windows.html#comment42092
+http://info.javarush.ru/JavaRush_tasks_discussion/2014/11/18/level17-lesson10-bonus01_8.html
+http://www.seostella.com/ru/article/2012/02/05/formatirovanie-daty-v-java.html
+http://info.javarush.ru/translation/2014/06/14/%D0%9A%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D1%83-%D0%B2-Java.html
+http://habrahabr.ru/post/126954/
+http://www.skipy.ru/technics/encodings.html - eiacdiaer
+https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80_%28%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%29
+http://habrahabr.ru/post/108076/
+http://habrahabr.ru/post/60317/
+http://info.javarush.ru/translation/2014/02/11/9-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BE-Map-%D0%B2-Java.html
+http://info.javarush.ru/translation/2014/02/07/Java-String-%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BA-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B-%D0%BD%D0%B0-%D0%BD%D0%B8%D1%85-.html
+http://habrahabr.ru/post/248865/
+http://info.javarush.ru/Sant9Iga/2015/01/23/%D0%9C%D0%BE%D1%8F-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D1%82%D1%80%D1%83%D0%B4%D0%BE%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-.html
+http://habrahabr.ru/post/164027/
+http://habrahabr.ru/post/128017/
+http://habrahabr.ru/post/179937/
+http://www.youtube.com/watch?v=BmBr5diz8WA - ACALI DI SPRING
+http://developer.alexanderklimov.ru/android/java/logic_operators.php - ddi nldirdiue idldrnid
+http://habrahabr.ru/post/165683/
+http://www.quizful.net/post/Java-Collections
+http://info.javarush.ru/translation/2013/09/14/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-Singleton-%D0%BE%D0%B4%D0%B8%D0%BD%D0%BE%D1%87%D0%BA%D0%B0-%D0%BD%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5-%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D1%85-.html
+http://www.skipy.ru/technics/serialization.html
+http://www.youtube.com/watch?feature=player_embedded&v=SL_AypuVIdI
+http://eax.me/programming-language-learning/
+http://ccfit.nsu.ru/~deviv/courses/oop/java_ser_rus.html
+http://info.javarush.ru/eGarmin/2015/03/28/%D0%91%D0%B5%D0%B7-%D0%BF%D0%B0%D1%84%D0%BE%D1%81%D0%B0-%D0%9F%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BC-%D0%BE-JavaEE-%D1%81%D0%B5%D1%80%D0%B2%D0%BB%D0%B5%D1%82%D0%B0%D1%85-%D0%B8-%D0%B8%D1%85-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%B0%D1%85.html
+http://www.slideshare.net/MERA_school/5-java-lecture-io   - nereau-aiddinu di nldcreccrocc
